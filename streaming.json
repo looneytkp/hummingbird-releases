@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "restMinutes": 30,
+  "restMinutes": 15,
   "direct": [
     {
       "name": "visionOS",
